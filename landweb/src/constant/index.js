@@ -39,7 +39,7 @@ export const shoes = [
     bigShoe: bigShoe2,
   },
   {
-    thumnail: thumbnailShoe3,
+    thumbnail: thumbnailShoe3,
     bigShoe: bigShoe3,
   },
 ];
@@ -64,7 +64,7 @@ export const products = [
   {
     imgURL: shoe6,
     name: "Nike Air Jordan-100",
-    price: "$220.2o",
+    price: "$220.20",
   },
   {
     imgURL: shoe7,
